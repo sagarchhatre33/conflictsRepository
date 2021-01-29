@@ -1,4 +1,10 @@
 class DemoMain{
+
+  
+  
+  
+  List l = new Arraylist();
+
 	int i =153;
 	void m1(){
 
