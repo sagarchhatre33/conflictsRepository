@@ -1,5 +1,5 @@
 class DemoMain{
-
+	List l = new Arraylist();
 	void m1(){
 
 	}
