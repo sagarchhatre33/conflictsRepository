@@ -1,5 +1,5 @@
 class DemoMain{
-
+	int i =153;
 	void m1(){
 
 	}
